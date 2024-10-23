@@ -9,13 +9,9 @@ I'm passionate about learning and developing my skills in programming. Currently
 ## Skills 🛠️
 
 - **Languages I Know:**
-  - HTML 🌐
-  - CSS 🎨
-  - JavaScript 💻
-  - A bit of React ⚛️
-  - A bit of TypeScript ✨
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 - **Currently Learning:**
-  - C 📚
+  - [![My Skills](https://skillicons.dev/icons?i=c,react,ts)](https://skillicons.dev)
 
 ## What I Hope to Achieve 🎯
 
