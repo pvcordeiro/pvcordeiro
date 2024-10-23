@@ -9,9 +9,11 @@ I'm passionate about learning and developing my skills in programming. Currently
 ## Skills 🛠️
 
 - **Languages I Know:**
+  
   [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
   
 - **Currently Learning:**
+  
   [![My Skills](https://skillicons.dev/icons?i=c,react,ts)](https://skillicons.dev)
 
 ## What I Hope to Achieve 🎯
