@@ -18,7 +18,7 @@ I'm passionate about learning and developing my skills in programming. Currently
   
 - **Currently Learning:**
   
-  [![My Skills](https://skillicons.dev/icons?i=c)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=c,cpp)](https://skillicons.dev)
 
 ## What I Hope to Achieve 🎯
 
