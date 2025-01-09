@@ -8,17 +8,21 @@ I'm passionate about learning and developing my skills in programming. Currently
 
 ## Skills 🛠️
 
+- **I am proficient with:**
+
+  [![My Skills](https://skillicons.dev/icons?i=git,vscode,linux)](https://skillicons.dev)
+
 - **I can do "things" with:**
   
   [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
 
 - **I can say that I know the basics of:**
 
-  [![My Skills](https://skillicons.dev/icons?i=react,ts)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=react,ts,mysql,docker)](https://skillicons.dev)
   
 - **Currently Learning:**
   
-  [![My Skills](https://skillicons.dev/icons?i=c,cpp)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=c,cpp,py)](https://skillicons.dev)
 
 ## What I Hope to Achieve 🎯
 
