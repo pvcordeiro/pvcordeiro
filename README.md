@@ -10,7 +10,7 @@ I'm passionate about learning and developing my skills in programming. Currently
 
 - **I am proficient with:**
 
-  [![My Skills](https://skillicons.dev/icons?i=git,vscode,linux)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=c,git,vscode,linux)](https://skillicons.dev)
 
 - **I can do "things" with:**
   
@@ -22,7 +22,7 @@ I'm passionate about learning and developing my skills in programming. Currently
   
 - **Currently Learning:**
   
-  [![My Skills](https://skillicons.dev/icons?i=c,cpp,py)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=cpp,py)](https://skillicons.dev)
 
 ## What I Hope to Achieve 🎯
 
