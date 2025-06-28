@@ -8,11 +8,11 @@ I'm studying at 42 and spending way too much time debugging C code. But hey, at 
 
 ## Skills 🛠️
 
-  [![My Skills](https://skillicons.dev/icons?i=c,git,vscode,linux,js,html,css)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,vim,linux,js,html,css,c)](https://skillicons.dev)
 
 ## Learning 📚
   
-  [![My Skills](https://skillicons.dev/icons?i=cpp,docker,py,react,ts,mysql)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=cpp,ts,react,py,docker,mysql)](https://skillicons.dev)
 
 ## My Goal? 🎯
 
