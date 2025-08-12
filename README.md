@@ -1,10 +1,10 @@
 # Hey there! 👋 I'm Paulo Victor
 
-Just a student at 42 Lisboa trying to figure out how to code without breaking everything.
+Just a random dude trying to figure out how to code without breaking everything.
 
 ## About Me 🌍
 
-I'm studying at 42 and spending way too much time debugging C code. But hey, at least I'm learning stuff along the way! 
+I'm studying at 42 and spending way too much time debugging some code. But hey, at least I'm learning stuff along the way! 
 
 ## Skills 🛠️
 
