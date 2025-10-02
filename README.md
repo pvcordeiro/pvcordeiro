@@ -11,11 +11,11 @@ I'm studying at 42 and spending way too much time debugging some code. But hey, 
   [![My Skills](https://skillicons.dev/icons?i=c,cpp,bash,js,html,css)](https://skillicons.dev)
 
   
-  [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,vim,linux,windows,mysql,sqlite,docker,nginx,raspberrypi)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,vim,linux,windows,mysql,docker,nginx)](https://skillicons.dev)
 
 ## Learning 📚
   
-  [![My Skills](https://skillicons.dev/icons?i=react,ts,tailwind,nextjs,nodejs,npm,py)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=react,ts,tailwind,nextjs,nodejs,npm,py,ansible,kubernetes,powershell)](https://skillicons.dev)
 
 ## My Goal? 🎯
 
