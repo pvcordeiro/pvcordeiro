@@ -1,25 +1,71 @@
+<div align="center">
+  
 # Hey there! 👋 I'm Paulo Victor
 
-Just a random dude trying to figure out how to code without breaking everything.
+### 42 Student | DevOps Engineer | Infrastructure & Automation Enthusiast
 
-## About Me 🌍
+_Turning coffee into code, one pipeline at a time_ ☕💻
 
-I'm studying at 42 and spending way too much time debugging some code. But hey, at least I'm learning stuff along the way! 
+[![42 Profile](https://img.shields.io/badge/42-Profile-000000?style=for-the-badge&logo=42&logoColor=white)](https://profile-v3.intra.42.fr/users/paude-so)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pvcordeir0)
 
-## Skills 🛠️
+</div>
 
-  [![My Skills](https://skillicons.dev/icons?i=c,cpp,bash,js,html,css)](https://skillicons.dev)
+---
 
+## 👨‍💻 About Me
+
+🎓 **Currently:** Student at **42 School**, mastering computer science fundamentals and system architecture
+
+💼 **Internship:** DevOps Engineer at **Caixa Geral de Depósitos**, working with CI/CD pipelines and infrastructure automation
+
+🔧 **Learning:** Bridging the gap between development and operations, from low-level C programming to infrastructure
+
+💡 **Philosophy:** Automate the boring stuff, monitor everything, and never deploy on Fridays
+
+---
+
+## 🛠️ Tech Stack
+
+### **Core Languages & Tools**
+
+[![Skills](https://skillicons.dev/icons?i=c,cpp,bash,python,js,git,github)](https://skillicons.dev)
+
+### **DevOps & Infrastructure**
+
+[![Skills](https://skillicons.dev/icons?i=docker,kubernetes,ansible,nginx,linux,mysql)](https://skillicons.dev)
+
+### **Development Environment & More**
+
+[![Skills](https://skillicons.dev/icons?i=vscode,vim,windows,nodejs,react,ts)](https://skillicons.dev)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
   
-  [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,vim,linux,windows,mysql,docker,nginx)](https://skillicons.dev)
+[![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=pvcordeiro)](https://github.com/pvcordeiro/github-readme-stats-fast)
 
-## Learning 📚
-  
-  [![My Skills](https://skillicons.dev/icons?i=react,ts,tailwind,nextjs,nodejs,npm,py,ansible,kubernetes,powershell)](https://skillicons.dev)
+[![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=pvcordeiro)](https://github.com/pvcordeiro/github-readme-stats-fast)
 
-## My Goal? 🎯
+</div>
 
-Become good enough at programming so I can actually build cool stuff and maybe even get hired someday. Also hoping to meet other people who like coding as much as I do! 
+---
 
-Check out my repos if you want to see what I'm working on!
+## 🚀 Featured Projects
 
+- **[My Finance Tracker](https://github.com/pvcordeiro/my-finance-tracker)** - A personal finance management webapp built with NextJS
+- **[Cub3d](https://github.com/pvcordeiro/cub3d)** - A Raycast game engine built with C
+
+---
+
+<div align="center">
+
+### 💭 _"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."_ – Martin Fowler
+
+_Also: Automate everything!_
+
+![Profile Views](https://komarev.com/ghpvc/?username=pvcordeiro&color=brightgreen&style=flat-square)
+
+</div>
