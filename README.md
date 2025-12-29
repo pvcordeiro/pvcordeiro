@@ -29,15 +29,15 @@ _Turning coffee into code, one pipeline at a time_ ☕💻
 
 ### **Core Languages & Tools**
 
-[![Skills](https://skillicons.dev/icons?i=c,cpp,bash,python,js,git,github)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=c,cpp,bash,powershell,python,js,nodejs,react,ts)](https://skillicons.dev)
 
 ### **DevOps & Infrastructure**
 
-[![Skills](https://skillicons.dev/icons?i=docker,kubernetes,ansible,nginx,linux,mysql)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=docker,kubernetes,ansible,nginx,mysql)](https://skillicons.dev)
 
 ### **Development Environment & More**
 
-[![Skills](https://skillicons.dev/icons?i=vscode,vim,windows,nodejs,react,ts)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=vscode,vim,windows,linux,git,github)](https://skillicons.dev)
 
 ---
 
