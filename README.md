@@ -15,7 +15,7 @@ _Turning coffee into code, one pipeline at a time_ ☕💻
 
 ## 👨‍💻 About Me
 
-🎓 **Currently:** Student at **42 School**, mastering computer science fundamentals and system architecture
+🎓 **Currently:** Student at **42 School**, finished the common core, and now mastering computer science fundamentals and system architecture
 
 💼 **Internship:** DevOps Engineer at **Caixa Geral de Depósitos**, working with CI/CD pipelines and infrastructure automation
 
@@ -57,6 +57,7 @@ _Turning coffee into code, one pipeline at a time_ ☕💻
 
 - **[My Finance Tracker](https://github.com/pvcordeiro/my-finance-tracker)** - A personal finance management webapp built with NextJS
 - **[Cub3d](https://github.com/pvcordeiro/cub3d)** - A Raycast game engine built with C
+- **[ft_transcendence](https://github.com/pvcordeiro/ft_transcendence)** - A fullstack 3D pong game with live chat, friends system and online multiplayer
 
 ---
 
