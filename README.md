@@ -29,7 +29,7 @@ _Turning coffee into code, one pipeline at a time_ ☕💻
 
 ### **Core Languages & Tools**
 
-[![Skills](https://skillicons.dev/icons?i=c,cpp,bash,powershell,python,js,nodejs,react,ts)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=c,cpp,go,bash,powershell,python,js,nodejs,react,ts)](https://skillicons.dev)
 
 ### **DevOps & Infrastructure**
 
