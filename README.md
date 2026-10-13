@@ -17,7 +17,7 @@ _Turning coffee into code, one pipeline at a time_ ☕💻
 
 🎓 **Currently:** Student at **42 School**, finished the common core, and now mastering computer science fundamentals and system architecture
 
-💼 **Internship:** DevOps Engineer at **Caixa Geral de Depósitos**, working with CI/CD pipelines and infrastructure automation
+💼 **Work:** DevOps Engineer at **Caixa Geral de Depósitos**, working with CI/CD pipelines and infrastructure automation
 
 🔧 **Learning:** Bridging the gap between development and operations, from low-level C programming to infrastructure
 
